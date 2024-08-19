@@ -9,5 +9,5 @@ package javaapplication1;
  * @author Tomi
  */
 public class prueba {
-    
+    int cosa;
 }
