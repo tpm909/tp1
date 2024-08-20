@@ -9,5 +9,5 @@ package javaapplication1;
  * @author Administrator
  */
 public class NewClass {
-    
+    private int gato;
 }
