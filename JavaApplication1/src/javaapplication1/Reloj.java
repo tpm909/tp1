@@ -6,8 +6,8 @@ package javaapplication1;
 
 /**
  *
- * @author Tomi
+ * @author Administrator
  */
-public class prueba {
-    int cosa;
+public class Reloj {
+    
 }
